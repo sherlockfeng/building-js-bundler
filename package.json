@@ -1,0 +1,17 @@
+{
+  "name": "building-js-bundler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/plugin-transform-modules-commonjs": "^7.17.9",
+    "chalk": "^5.0.1",
+    "jest-haste-map": "^28.1.0",
+    "jest-resolve": "^28.1.0",
+    "jest-resolve-dependencies": "^28.1.0",
+    "jest-worker": "^28.1.0",
+    "prettier": "^2.6.2",
+    "yargs": "^17.4.1"
+  }
+}
